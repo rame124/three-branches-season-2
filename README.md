@@ -39,3 +39,11 @@ Test the connection with:
 ```console
 python -m sandbox llm
 ```
+
+## AI-use discolosure and reflection
+
+I used ChatGPT to update my Three Branches agent so the villagers now tend to different props around the village based off a predetermined role. ChatGPT made the code changes; and I did not make additional manual edits. I reviewed the new agent, checked the helpers against the environment page, and tested it against the seeds before and after each change. The new agent now performs as wanted for the design goal.
+
+# Design Goal
+
+My design goal for this agent was: In the RPG game, players should notice different villagers tending to different untended props around the village.
